@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<accounts>
+    <account>
+        <level>admin</level>
+        <password>admin</password>
+        <username>admin</username>
+    </account>
+    <account>
+        <level>client</level>
+        <password>123123</password>
+        <username>LikHaeng</username>
+    </account>
+    <account>
+        <level>client</level>
+        <password>Password</password>
+        <username>Username</username>
+    </account>
+</accounts>
